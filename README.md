@@ -1,2 +1,0 @@
-# icpayDist
-test
